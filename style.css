@@ -1,0 +1,30 @@
+.navbar-brand {
+     font-family: 'Poppins', sans-serif;
+     font-family: 'Rubik', sans-serif;
+     font-size: 25px;
+     text-shadow: 1px 2px grey;
+}
+ .big, li, a, p {
+     font-size: 20px;
+}
+ .no {
+     text-decoration: none;
+     color: black;
+     text-transform: uppercase;
+}
+ a {
+     text-decoration:none;
+     color:black;
+}
+ .nav-link:hover{
+     font-weight:bold;
+     transition-duration:3s;
+}
+ ul{
+     margin-left: 30px;
+}
+ @media all and (max-width:500px){
+     ul{
+         margin-left: 80px;
+    }
+}
