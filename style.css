@@ -1,8 +1,8 @@
+
 .navbar-brand {
      font-family: 'Poppins', sans-serif;
      font-family: 'Rubik', sans-serif;
      font-size: 25px;
-     text-shadow: 1px 2px grey;
 }
  .big, li, a, p {
      font-size: 20px;
@@ -27,4 +27,7 @@
      ul{
          margin-left: 80px;
     }
+   .position{
+  margin-top:100px;
+}
 }
